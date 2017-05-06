@@ -2,6 +2,9 @@ eureka:
   client:
     serviceUrl:
       defaultZone: http://localhost:8010/eureka/
+      
+      
+words: reasonable,leaky,suspicious,ordinary,unlikely
 ---
 spring:
   profiles: subject
